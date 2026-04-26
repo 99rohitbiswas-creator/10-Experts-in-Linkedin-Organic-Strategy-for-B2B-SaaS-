@@ -99,4 +99,3 @@ If you're managing Pages in legal, fintech, or financial services, this sort of 
 Let me know if you’d like a walkthrough or tips on how to use it to inform your content planning.
 
 [#LinkedInTips] [#Trevisan] [#ContentStrategy] [#CompanyPages]
-
