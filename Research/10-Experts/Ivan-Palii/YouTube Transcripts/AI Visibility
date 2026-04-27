@@ -1,0 +1,43 @@
+# YouTube Transcript: Should Agencies Track AI Visibility? 
+**Expert:** Ivan Palii (Head of Product, Sitechecker)
+**Focus:** B2B SaaS Growth, SEO Product Management, & Reddit Strategy
+
+---
+
+## 1. The Rise of the "SEO Product Manager"
+* **[00:04:30] Defining the Role:** SEO is no longer just about content and backlinks. In B2B SaaS, the product itself must be optimized for the channel.
+* **[00:05:31] The UX vs. Conversion Paradox:** Google rewards user satisfaction (e.g., providing a tool without sign-up). High friction (requiring an account) leads to lower rankings. Ivan suggests prioritizing visibility over immediate conversions to maintain high SERP positions.
+* **[00:07:26] Channel-Product Fit:** Products should be built to fit the search channel. Google decides what "good experience" looks like; B2B SaaS founders must adapt their product features to match these ranking signals.
+
+---
+
+## 2. AI Visibility Tracking (GEO) in 2026
+* **[00:23:18] Fundamental Shift:** AI visibility is no longer "nice to have." Agencies must track it because clients are now bombarded with "AI Search" concerns. 
+* **[00:25:32] Tracking Methodology:**
+    * **GA4 Tracking:** Monitor traffic from AI sources (ChatGPT, Claude, etc.) to compare against traditional search.
+    * **The User Journey:** AI-driven traffic is "warmer." By the time a user clicks from ChatGPT to a brand, they have usually already decided to purchase.
+    * **Prompt Tracking [00:28:46]:** Tracking specific prompts is difficult because there is no "search volume" metric yet. Instead, focus on **Brand Playbooks**—ensuring AI recommends your tool for specific ICP requests (e.g., "Best SEO tool for a 20-person agency").
+
+---
+
+## 3. Parasite SEO & Medium Strategy
+* **[00:34:21] The Power of Third-Party Authority:** Google loves third-party platforms (Medium, Reddit) because they appear unbiased. 
+* **[00:34:53] Medium Leverage:** An article on a brand blog might get 10 views, while the same article on Medium gets 100+ because of the platform's high Domain Authority.
+* **[00:36:54] Ranking without Backlinks:** Ivan demonstrates ranking for highly competitive keywords (e.g., "SEMrush Internship") on the first page of Google using Medium without any active backlink building.
+
+---
+
+## 4. The 2026 Reddit Growth Engine
+* **[00:40:40] The 1-in-10 Rule:** To avoid being banned, you must contribute 10 high-value comments for every 1 promotional link. 
+* **[00:43:06] Monitoring Tools:** Use **F5Bot** (free tool) to get real-time alerts when keywords or competitors are mentioned on Reddit.
+* **[00:44:05] Viral Comments:** A single well-placed comment in a trending thread can generate 8,000+ impressions.
+* **[00:51:25] Three Pillars of Reddit:** 1. **Commenting:** Join existing conversations (the fastest ROI).
+    2. **Posting:** Share unique insights or repurpose LinkedIn content.
+    3. **Subreddit Creation:** Build your own community (e.g., /r/sitechecker) for long-term brand authority.
+
+---
+
+## 5. The Future: 5-Year Outlook for B2B SaaS [01:05:35]
+* **Full-Stack Marketing:** SEO will become part of a "Full-Stack" organic strategy. 
+* **Brand as Entity:** AI doesn't just rank pages; it aggregates information about your **Brand Entity**. 
+* **Invisible Decisions:** The buying decision is often made *before* the user visits your website, based on what they've seen on LinkedIn, Reddit, and AI chats. Your brand must be "everywhere" to be cited by the LLMs.
