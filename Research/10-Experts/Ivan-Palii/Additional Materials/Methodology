@@ -1,0 +1,66 @@
+## Ivan’s “12 Post Types” framework (context for his LinkedIn content strategy)
+
+
+Primary source (Ivan’s write-up):
+- **Medium**: `https://medium.com/@ivanpalii/12-post-types-to-grow-your-personal-brand-on-linkedin-and-twitter-25fafcaad2d2`
+
+
+The 12 post types Ivan lists are:
+1. Experiment
+2. Big change in your industry
+3. Your biggest mistakes
+4. Your most successful decisions
+5. How do you prioritize goals and tasks
+6. How do you work with tradeoffs
+7. Your formula of success in something
+8. Your templates to simplify routine
+9. Top tools you use
+10. Your audit of something
+11. Important things you think people get wrong about
+12. Tips based on book summary
+
+
+How this maps to his top early‑2026 LinkedIn posts above:
+- **Experiment**: parasite SEO tests; new rank-tracker concept
+- **Big change**: “3 trends that broke organic growth…”
+- **Templates/tools**: Looker Studio templates + visibility tracking
+- **Audits**: SERP/indexing shifts + what to do next
+
+---
+
+# The Mathematics of Influence: Ivan Palii and Cross-Platform Visibility
+
+## 1. LinkedIn as a Node in the Distribution Engine
+Ivan Palii (Founder of B2B Gaps) views LinkedIn not as a social network, but as a critical node in a larger organic distribution system. His approach combines **algorithm hacking** with **advanced data reporting** (Looker Studio/PPC metrics) to quantify the value of organic reach.
+
+### The Cost of Organic Reach
+Palii calculates the "Real Cost" of a high-quality post:
+* **Time Investment:** $20 to $100 per post (based on professional hourly rates).
+* **CPM Equivalent:** For accounts under 10k followers, this translates to an investment of roughly **$5 to $19 per 1,000 impressions**.
+* **The "ICP Dilution" Warning:** Palii argues that follower count is secondary. Acquiring non-ICP (Ideal Customer Profile) followers damages the algorithm by diluting the initial engagement signals required to trigger broader reach.
+
+---
+
+## 2. The ROI Formula for Organic Growth
+Palii models the ROI of LinkedIn organic efforts by comparing them directly to the cost of equivalent paid impressions:
+
+$$ROI = \frac{(Impressions \times CPM_{paid}) - (Hours \times HourlyRate)}{Hours \times HourlyRate}$$
+
+### Metric-Based Growth Trajectory
+
+| Growth Lever | Algorithmic Constraint | Strategy Focus |
+| :--- | :--- | :--- |
+| **Content Posting** | 1 post/day max (prevents cannibalization) | Experimentation with hooks/formats |
+| **Comment Engagement** | High time requirement per view | Immediate niche visibility in ICP nodes |
+| **Connection Requests** | ~800 per month limit | 100% ICP control; precision networking |
+| **External Sourcing** | Requires existing audience | High authority signaling; cross-platform conversion |
+
+---
+
+## 3. Precision Targeting & Discovery Catalysts
+Palii utilizes tools like **Favikon** to identify "High-Context Influencers"—SMEs who have deep authority rather than just high follower counts.
+
+### The Daily Visibility Playbook:
+* **Connection Requests:** 10 to 20 daily requests strictly targeted at ICPs.
+* **Meaningful Commenting:** Using comments as "discovery catalysts" to drive traffic back to the profile funnel.
+* **Data-Driven Sourcing:** Ensuring every post serves the bottom line by measuring engagement relevance over raw volume.
