@@ -1,0 +1,21 @@
+# Video Transcript: Strategic Research Framework
+**Source:** Pawel Tatarek — *"How to research for a blog post: 15 Ways to Find HQ Sources"*
+
+## 1. The AI-Powered Foundation
+* **[00:27] Google NotebookLM Workflow:** Upload the top 10 search results to NotebookLM to generate an "audio overview." This builds a quick mental map of a new topic without switching between dozens of browser tabs.
+* **[02:06] The Gap Analysis:** Use ChatGPT to dissect competitor articles. Don't just look for what they wrote; look for unsupported claims, gaps in logic, or unaddressed reader needs.
+* **[05:31] Deep Research AI:** Use Perplexity, Gemini, and ChatGPT simultaneously to expand research beyond the first page of Google.
+
+## 2. Audience & Expert Intelligence
+* **[02:53] Reddit as a "Pain Point" Mine:** Use tools like GigaBrain to find real questions people ask when software fails them. This is a primary source for high-converting LinkedIn "Hook" ideas.
+* **[03:54] Expert Contributions:** Reach out to internal experts or post call-outs on LinkedIn/PR platforms (Featured, Help a B2B Writer) to get unique quotes that add human authority to SaaS content.
+* **[09:49] Audio/Visual Research:** Search for relevant podcasts on Spotify and YouTube videos. Convert these to text using NotebookLM or AssemblyAI to extract fresh perspectives that haven't been "over-written" on blogs yet.
+
+## 3. The SaaS "Edge" (Product-Led Research)
+* **[04:24] Internal Assets:** Use the client’s case studies, frameworks, and data. This creates content "radiating authority" that competitors cannot replicate.
+* **[07:59] Hands-On Tool Testing:** Sign up for free trials of the software you are writing about. Document friction points and unique UI/UX quirks.
+* **[09:16] Review Site Mining:** Scan G2, Capterra, and Clutch. Capture the exact vocabulary real customers use to describe their successes and frustrations.
+
+## 4. Final Verification & Organization
+* **[11:52] The Trust Filter:** Only use statistics from established brands (Gartner, HubSpot, SparkToro). Rule of thumb: Never use data older than 2–3 years.
+* **[13:12] Resource Vault:** Centralize all research in a Notion database or NotebookLM file to avoid "research overwhelm" and make data recall easy during the writing phase.
