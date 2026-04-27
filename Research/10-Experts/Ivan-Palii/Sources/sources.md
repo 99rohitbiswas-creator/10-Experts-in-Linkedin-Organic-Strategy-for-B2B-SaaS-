@@ -1,0 +1,5 @@
+* **LinkedIn Profile:** [https://www.linkedin.com/in/ivanpalii/]
+* **YouTube Channel:** [https://www.youtube.com/@ivanhoedigital]
+* **YouTube Video:** [https://youtu.be/0P-JEc6f7rY?si=0CH_kBlZL9fKi0Lo]
+* **Website:** [https://ivanpalii.com/]
+* **Medium:** [https://medium.com/@ivanpalii/12-post-types-to-grow-your-personal-brand-on-linkedin-and-twitter-25fafcaad2d2]
